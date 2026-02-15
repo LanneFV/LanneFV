@@ -22,10 +22,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LanneFV&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&hide_border=true&order=1" height="200" alt="stats graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/LanneFV/LanneFV/output/snake.svg" alt="Snake animation" /> 
