@@ -4,10 +4,6 @@
 
 ###
 
-<img align="right" height="300" src="https://drive.google.com/uc?id=1Ok3vcZmujVDMTZOTtxTA64eYMOX6FvxZ"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
