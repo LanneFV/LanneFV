@@ -29,9 +29,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/LanneFV/LanneFV/output/snake.svg" alt="Snake animation" /> 
-
-###
-
-<div align="center">
-  <img height="100" src="https://i.pinimg.com/originals/44/ba/2d/44ba2dc0cc75b05d92807d9a737e714f.gif" alt="Meu GIF" />
-</div>
